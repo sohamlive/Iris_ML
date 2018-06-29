@@ -1,5 +1,5 @@
 # Iris_ML
-Implementing some machine learning algorithms on the Iris dataset.
+Implementing some machine learning algorithms on the Iris dataset. The dataset is taken from the UCI Machine Learning Repository.
 
 Uses pandas, sklearn, seaborn, matplolib libraries.
 
